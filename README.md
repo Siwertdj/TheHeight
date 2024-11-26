@@ -1,4 +1,4 @@
-# Project Title
+# The Height
 
 This project was developed for the course 'Gamefeel' at HKU as part of a weekly iterative gamejam. 
 The goal of this project was to create a game that feels and looks satisfying to play.
