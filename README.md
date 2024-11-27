@@ -25,4 +25,6 @@ This project is licensed under the GNU General Public License v3.0 - see the LIC
 ## Acknowledgments
 
 * [Music by Bert Cole](https://bit-by-bit-sound.itch.io/16-bit-starter-pack)
-* Art by..
+* [Foggy Cliffs Fantasy Tileset by Aamatniekss](https://aamatniekss.itch.io/foggy-cliffs-fantasy-pixel-art-tileset)
+* [Pixel Art Forest Tileset by Eder Muniz](https://edermunizz.itch.io/free-pixel-art-forest)
+* [Bird Character Art by Siwert de Jong](https://siwertdj.itch.io)
